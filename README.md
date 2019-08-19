@@ -6,7 +6,7 @@
 
 ## 成果展示
 
-
+![](https://github.com/ianlin614/final/raw/master/%E8%B2%93%E5%92%AA.png)
 
 ## 使用技術
 
