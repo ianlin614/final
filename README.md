@@ -6,7 +6,7 @@
 
 ## 成果展示
 
-![](https://github.com/grand-coder/elwingdiary/raw/master/demo.png)
+
 
 ## 使用技術
 
